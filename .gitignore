@@ -44,3 +44,9 @@ document.pdf
 .project
 
 .DS_Store
+
+*.png
+
+*.glg
+
+*.gls
