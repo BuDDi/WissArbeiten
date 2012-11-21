@@ -38,3 +38,5 @@ document.pdf
 *.xdy
 
 .project
+
+.DS_Store
